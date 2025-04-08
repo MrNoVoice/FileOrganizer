@@ -1,0 +1,14 @@
+C:\Users\VOICE\Desktop\FileOrganizer\bin\Debug\net9.0\FileOrganizer.exe
+C:\Users\VOICE\Desktop\FileOrganizer\bin\Debug\net9.0\FileOrganizer.deps.json
+C:\Users\VOICE\Desktop\FileOrganizer\bin\Debug\net9.0\FileOrganizer.runtimeconfig.json
+C:\Users\VOICE\Desktop\FileOrganizer\bin\Debug\net9.0\FileOrganizer.dll
+C:\Users\VOICE\Desktop\FileOrganizer\bin\Debug\net9.0\FileOrganizer.pdb
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.AssemblyInfoInputs.cache
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.AssemblyInfo.cs
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.dll
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\refint\FileOrganizer.dll
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.pdb
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\FileOrganizer.genruntimeconfig.cache
+C:\Users\VOICE\Desktop\FileOrganizer\obj\Debug\net9.0\ref\FileOrganizer.dll
